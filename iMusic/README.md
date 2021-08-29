@@ -1,3 +1,3 @@
-#imusic App 
-is an android app which lets the user play the songs from their gallery conveniently.
-Language used: is purely java
+##imusic App 
+<br>is an android app which lets the user play the songs from their gallery conveniently.</br>
+<br>Language used: is purely java</br>
